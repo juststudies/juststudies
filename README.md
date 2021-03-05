@@ -1,8 +1,6 @@
 <h1 align="center">Hello folks I'm Nicolas!</h1>
 <h3 align="center">A chemist that's gonna be a dev</h3>
 
-<p align="left"> <a href="https://twitter.com/scorpelini" target="blank"><img src="https://img.shields.io/twitter/follow/scorpelini?logo=twitter&style=for-the-badge" alt="scorpelini" /></a> </p>
-
 - 🌱 I’m currently learning **Elixir and Phoenix**
 
 - 💬 Ask me about **Nodejs or React xD**
@@ -13,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/scorpelini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="scorpelini" height="30" width="40" /></a>
+<a href="https://twitter.com/scorpelini" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="scorpelini" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
