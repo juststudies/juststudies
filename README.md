@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Nodejs or React xD**
 
-- 📫 How to reach me **nscorp@protonmail.com**
+- 📫 How to reach me **ncscorp@protonmail.com**
 
 - ⚡ Fun fact **a bathtub is like a boat, but in reverse**
 
