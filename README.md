@@ -11,7 +11,7 @@
 
 <br><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/scorpelini" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="scorpelini" height="30" width="40" /></a>
+<a href="https://twitter.com/nc_scorp" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="nc_scorp" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -19,11 +19,13 @@
 
 ```php
 $iKnow = array(
-    "backend" => ["nodejs", "php"],
+    "backend" => ["nodejs", "php", "python"],
     "frontend" => ["react", "vuejs", "blade"],
-    "techs" => ["git", "docker"],
+    "techs" => ["git", "docker", "k8s", "rancher"],
+    "monitoring" => nagios,
+    "dashboard" => grafana,
     "server" => "nginx",
-    "database" => ["mysql", "postgresql", "sqlite", "mongodb"],
+    "database" => ["postgresql", "sqlite", "mongodb"],
     "os" => ["ubuntu", "windows"]
 );
 ```
