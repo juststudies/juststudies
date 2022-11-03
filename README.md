@@ -1,9 +1,7 @@
 <h1 align="center">Hello folks I'm Nicolas!</h1>
-<h3 align="center">A chemist that's gonna be a dev</h3>
+<h3 align="center">A chemist that's a DevOps... or something like that</h3>
 
-- 🌱 I’m currently learning **PHP and his universe**
-
-- 💬 Ask me about **Nodejs or React xD**
+- 🌱 I’m currently learning **Python and SysOps**
 
 - 📫 How to reach me **ncscorp@protonmail.com**
 
