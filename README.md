@@ -7,11 +7,6 @@
 
 - ⚡ Fun fact **a bathtub is like a boat, but in reverse**
 
-<br><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nc_scorp" target="blank"><img align="center" src="https://www.svgrepo.com/show/183608/twitter.svg" alt="nc_scorp" height="30" width="40" /></a>
-</p>
-
 <br>
 <h3 align="left">Languages and Tools:</h3>
 
